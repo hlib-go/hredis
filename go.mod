@@ -1,4 +1,4 @@
-module hredis
+module github.com/hlib-go/hredis
 
 go 1.14
 
